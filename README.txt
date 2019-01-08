@@ -1,0 +1,1 @@
+This is an interactive hangman game where the player can interact with the computer. The program selects a word at random from a txt file consisting of a large selection of possible words. The user has a finite number of guesses to guess the word. If the user cannot guess the word within the allotted number of guesses, the program will reveal the word at the end of the game.
